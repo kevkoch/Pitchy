@@ -2,7 +2,7 @@ import Foundation
 
 public struct NoteCalculator {
   public struct Standard {
-    public static let frequency = 440.0
+    public static let frequency = 443.0
     public static let octave = 4
   }
 
